@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^23.2.1"
+    "electron": "^24.8.5"
   },
   "dependencies": {
     "resize-img": "^2.0.0",
